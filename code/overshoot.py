@@ -42,5 +42,4 @@ max_wheel = 10
 max_joint = 10
 k = 1
 dt = 0.01
-path = '/Users/markchauhan/Documents/ME449_FP/results/overshoot'
 sim_data('overshoot',path, max_wheel, max_joint,Kp,Ki,Tsei, Tsci, Tscf, k, dt)
